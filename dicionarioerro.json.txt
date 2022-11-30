@@ -1,6 +1,6 @@
 {
-"iderro": "CSMKT001",
-"codigoerro": "CSMKT001",
+"iderro": "CSMKT002",
+"codigoerro": "CSMKT002",
 "codigohttp": 400,
 "descricao": "Id Incidente Inválido",
 "ptBr": "Id do incidente deve ser um número válido.",
