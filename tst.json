@@ -1,0 +1,10 @@
+{
+"iderro": "CSMKT002",
+"codigoerro": "CSMKT002",
+"codigohttp": 400,
+"descricao": "Id Incidente Inválido",
+"ptBr": "Id do incidente deve ser um número válido.",
+"enUs": "Incident id must be a valid integer.",
+"datacadastro": "2022-11-28T00:00:00Z",
+"dataultimaatualizacao": "2022-11-28T12:00:00Z"
+}
